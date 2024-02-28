@@ -1,0 +1,12 @@
+X:\РПМ\kr22\kr22\bin\Debug\kr22.exe.config
+X:\РПМ\kr22\kr22\bin\Debug\kr22.exe
+X:\РПМ\kr22\kr22\bin\Debug\kr22.pdb
+X:\РПМ\kr22\kr22\obj\Debug\kr22.csproj.AssemblyReference.cache
+X:\РПМ\kr22\kr22\obj\Debug\kr22.Form1.resources
+X:\РПМ\kr22\kr22\obj\Debug\kr22.Properties.Resources.resources
+X:\РПМ\kr22\kr22\obj\Debug\kr22.csproj.GenerateResource.cache
+X:\РПМ\kr22\kr22\obj\Debug\kr22.csproj.CoreCompileInputs.cache
+X:\РПМ\kr22\kr22\obj\Debug\kr22.exe
+X:\РПМ\kr22\kr22\obj\Debug\kr22.pdb
+X:\РПМ\kr22\kr22\obj\Debug\kr22.LoginForm.resources
+X:\РПМ\kr22\kr22\obj\Debug\kr22.tph_numb.resources
